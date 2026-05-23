@@ -15,7 +15,7 @@ export default function Footer() {
         </div>
         <FooterCol title="Services" links={['Stratégie comm.', 'Identité visuelle', 'Digital', 'Conseil']} />
         <FooterCol title="Formations" links={['E-commerce', 'Informatique', 'Bureautique', 'Programmation', 'Anglais']} />
-        <FooterCol title="Contact" links={['Moroni, Comores', '+269 XXX XXX', 'contact@mamcom.com', 'Lun–Sam 8h–18h']} />
+        <FooterCol title="Contact" links={['Moroni, Comores', '+269 475 59 00', 'mamcomm@1994gmail.com', 'Lun–Sam 8h–18h']} />
       </div>
       <div style={{ borderTop: '1px solid rgba(255,255,255,0.07)', paddingTop: 20, display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: 8 }}>
         <p style={{ fontSize: 12, color: 'rgba(255,255,255,0.3)' }}>© 2026 MAMcom — Agence de Communication. Tous droits réservés.</p>
